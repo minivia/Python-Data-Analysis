@@ -1,1 +1,1 @@
-Finding correlations between variables.
+Cross tabulated data from UCI's Machine Learning Repository with MySQL to explore factors that significantly contribute to hospital readmission rates for diabetes. Generated plots, statistics, and correlational analysis in Python using Pandas, Matplotlib, Seaborn, Numpy, Pymysql, and Statsmodels.
