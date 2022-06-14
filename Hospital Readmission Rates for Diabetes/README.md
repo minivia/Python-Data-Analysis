@@ -1,2 +1,2 @@
-*Hospital Readmission Rates for Diabetes*
+# Hospital Readmission Rates for Diabetes
 Cross tabulated data from UCI's Machine Learning Repository with MySQL to explore factors that significantly contribute to hospital readmission rates for diabetes. Generated plots, statistics, and correlational analysis in Python using Pandas, Matplotlib, Seaborn, Numpy, Pymysql, and Statsmodels. Created a slideshow to present my analysis approach and findings.
